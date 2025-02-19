@@ -16,7 +16,7 @@
        },
        {
           "key":"ManagedBookmarks",
-          "valueString": "{\"toplevel_name\": \"ABH Bookmarks\", \"children\": [{ \"name\": \"Zillow\", \"url\": \"www.zillow.com\" }, { \"name\": \"Redfin\", \"url\": \"www.redfin.com\" }]}"
+          "valueString": "[{\"toplevel_name\":\"ABH Bookmarks\"},{\"name\":\"Realtor Websites\",\"children\":[{\"url\":\"www.zillow.com\",\"name\":\"Zillow\"},{\"url\":\"www.redfin.com\",\"name\":\"Redfin\"}]},{\"name\":\"Microsoft\",\"children\":[{\"url\":\"https://myapplications.microsoft.com/\",\"name\":\"Microsoft My Apps\"}]}]"
        }
     ]
  }
