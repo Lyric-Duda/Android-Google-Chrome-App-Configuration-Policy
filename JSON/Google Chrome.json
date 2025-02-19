@@ -1,0 +1,22 @@
+﻿{
+    "kind":"androidenterprise#managedConfiguration",
+    "productId":"app:com.android.chrome",
+    "managedProperty":[
+       {
+          "key":"BrowserSignin",
+          "valueString":"1"
+       },
+       {
+          "key":"HomepageLocation",
+          "valueString": "https://www.zillow.com/"
+       },
+       {
+          "key":"IncognitoModeAvailability",
+          "valueString":"1"
+       },
+       {
+          "key":"ManagedBookmarks",
+          "valueString": "{\"toplevel_name\": \"ABH Bookmarks\", \"children\": [{ \"name\": \"Zillow\", \"url\": \"www.zillow.com\" }, { \"name\": \"Redfin\", \"url\": \"www.redfin.com\" }]}"
+       }
+    ]
+ }
